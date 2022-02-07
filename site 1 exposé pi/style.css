@@ -1,0 +1,35 @@
+h1
+{
+	color: red;
+}
+h3
+{
+	color: blue;
+}
+h4
+{
+	color: black;
+}
+h2
+{
+	color: yellow;
+}
+
+#carte
+{
+
+	width: 900px;
+	margin:0 auto;
+	background-color: skyblue;
+	test-align:  center;
+	align-content:  center;
+
+}
+body
+{
+	background-image: url("bannière2.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-repeat: repeat-y;
+	background-attachment: fixed;
+}
